@@ -1,0 +1,10 @@
+
+
+class demo
+{
+psvm()
+{
+
+}
+}
+
